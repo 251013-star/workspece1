@@ -1,4 +1,10 @@
 .card {
-  max-width: 480px;
-  margin: 40px auto;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  width: 200px;
+}
+
+.name {
+  margin: 0 0 8px;
 }
